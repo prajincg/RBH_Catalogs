@@ -11,7 +11,7 @@ FullName:Arial Bold
 MenuName:Arial
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH\Fiction_Distribution\Document fonts\arialbd.ttf
+OutlineFileName:C:\GIT\RBH_Catalogs\Fiction_Distribution\Document fonts\arialbd.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -34,7 +34,7 @@ FullName:Arial Bold Italic
 MenuName:Arial
 StyleBits:3
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH\Fiction_Distribution\Document fonts\arialbi.ttf
+OutlineFileName:C:\GIT\RBH_Catalogs\Fiction_Distribution\Document fonts\arialbi.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -57,7 +57,7 @@ FullName:Helvetica LT Std Light Condensed
 MenuName:Helvetica LT Std Cond Light
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH\Fiction_Distribution\Document fonts\HelveticaLTStd-LightCond.otf
+OutlineFileName:C:\GIT\RBH_Catalogs\Fiction_Distribution\Document fonts\HelveticaLTStd-LightCond.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -85,7 +85,7 @@ FullName:Helvetica Neue LT Std 35 Thin
 MenuName:HelveticaNeueLT Std Thin
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH\Fiction_Distribution\Document fonts\HelveticaNeueLTStd-Th_0.otf
+OutlineFileName:C:\GIT\RBH_Catalogs\Fiction_Distribution\Document fonts\HelveticaNeueLTStd-Th_0.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -113,7 +113,7 @@ FullName:ITC Avant Garde Gothic Std Book
 MenuName:ITC Avant Garde Std Bk
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH\Fiction_Distribution\Document fonts\ITCAvantGardeStd-Bk.otf
+OutlineFileName:C:\GIT\RBH_Catalogs\Fiction_Distribution\Document fonts\ITCAvantGardeStd-Bk.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -141,7 +141,7 @@ FullName:ITC Avant Garde Gothic Std Book Oblique
 MenuName:ITC Avant Garde Std Bk
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH\Fiction_Distribution\Document fonts\ITCAvantGardeStd-BkObl.otf
+OutlineFileName:C:\GIT\RBH_Catalogs\Fiction_Distribution\Document fonts\ITCAvantGardeStd-BkObl.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -169,7 +169,7 @@ FullName:ITC Avant Garde Gothic Std Demi
 MenuName:ITC Avant Garde Std Bk
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH\Fiction_Distribution\Document fonts\ITCAvantGardeStd-Demi.otf
+OutlineFileName:C:\GIT\RBH_Catalogs\Fiction_Distribution\Document fonts\ITCAvantGardeStd-Demi.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -197,7 +197,7 @@ FullName:ITC Avant Garde Gothic Std Demi Condensed
 MenuName:ITC Avant Garde Std Bk Cn
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH\Fiction_Distribution\Document fonts\ITCAvantGardeStd-DemiCn.otf
+OutlineFileName:C:\GIT\RBH_Catalogs\Fiction_Distribution\Document fonts\ITCAvantGardeStd-DemiCn.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -225,7 +225,7 @@ FullName:Proxima Nova Regular
 MenuName:Proxima Nova Rg
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH\Fiction_Distribution\Document fonts\ProximaNova-Regular.otf
+OutlineFileName:C:\GIT\RBH_Catalogs\Fiction_Distribution\Document fonts\ProximaNova-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -251,7 +251,7 @@ FullName:Univers 45 Light
 MenuName:Univers 45 Light
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH\Fiction_Distribution\Document fonts\Univers-Light.otf
+OutlineFileName:C:\GIT\RBH_Catalogs\Fiction_Distribution\Document fonts\Univers-Light.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -276,7 +276,7 @@ FullName:Univers 59 Ultra Condensed
 MenuName:Univers 59 Ultra Condensed
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH\Fiction_Distribution\Document fonts\Univers-UltraCondensed.otf
+OutlineFileName:C:\GIT\RBH_Catalogs\Fiction_Distribution\Document fonts\Univers-UltraCondensed.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -301,7 +301,7 @@ FullName:Univers 55 Roman
 MenuName:Univers 55
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH\Fiction_Distribution\Document fonts\Univers.otf
+OutlineFileName:C:\GIT\RBH_Catalogs\Fiction_Distribution\Document fonts\Univers.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -326,7 +326,7 @@ FullName:Univers LT Std 65 Bold
 MenuName:Univers LT Std 45 Light
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH\Fiction_Distribution\Document fonts\UniversLTStd-Bold.otf
+OutlineFileName:C:\GIT\RBH_Catalogs\Fiction_Distribution\Document fonts\UniversLTStd-Bold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -353,7 +353,7 @@ FullName:Univers LT Std 45 Light
 MenuName:Univers LT Std 45 Light
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH\Fiction_Distribution\Document fonts\UniversLTStd-Light.otf
+OutlineFileName:C:\GIT\RBH_Catalogs\Fiction_Distribution\Document fonts\UniversLTStd-Light.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -380,7 +380,7 @@ FullName:Univers LT Std 45 Light Oblique
 MenuName:Univers LT Std 45 Light
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH\Fiction_Distribution\Document fonts\UniversLTStd-LightObl.otf
+OutlineFileName:C:\GIT\RBH_Catalogs\Fiction_Distribution\Document fonts\UniversLTStd-LightObl.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -408,7 +408,7 @@ FullName:Univers LT Std 55 Roman
 MenuName:Univers LT Std 55
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH\Fiction_Distribution\Document fonts\UniversLTStd.otf
+OutlineFileName:C:\GIT\RBH_Catalogs\Fiction_Distribution\Document fonts\UniversLTStd.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes

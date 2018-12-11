@@ -1,5 +1,5 @@
 %!Adobe-FontList 1.20
-%Locale:0x4009
+%Locale:0x409
 
 %BeginFont
 Handler:DirectoryHandler
@@ -11,14 +11,14 @@ FullName:Helvetica LT Std Light Condensed
 MenuName:Helvetica LT Std Cond Light
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH_Catalogs\Unscripted_Distribution\Document fonts\HelveticaLTStd-LightCond.otf
+OutlineFileName:C:\Users\prajin.cg\Documents\GitHub\RBH_Catalogs\Unscripted_Distribution\Document fonts\HelveticaLTStd-LightCond.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:28128
-FileModTime:1423485850
+FileModTime:1544525287
 WeightClass:300
 WidthClass:3
 AngleClass:0
@@ -39,14 +39,14 @@ FullName:Helvetica Neue LT Std 45 Light
 MenuName:HelveticaNeueLT Std Lt
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH_Catalogs\Unscripted_Distribution\Document fonts\HelveticaNeueLTStd-Lt_0.otf
+OutlineFileName:C:\Users\prajin.cg\Documents\GitHub\RBH_Catalogs\Unscripted_Distribution\Document fonts\HelveticaNeueLTStd-Lt_0.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:28980
-FileModTime:1423486090
+FileModTime:1544525287
 WeightClass:300
 WidthClass:5
 AngleClass:0
@@ -67,14 +67,14 @@ FullName:ITC Avant Garde Gothic Std Book
 MenuName:ITC Avant Garde Std Bk
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH_Catalogs\Unscripted_Distribution\Document fonts\ITCAvantGardeStd-Bk.otf
+OutlineFileName:C:\Users\prajin.cg\Documents\GitHub\RBH_Catalogs\Unscripted_Distribution\Document fonts\ITCAvantGardeStd-Bk.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:32760
-FileModTime:1423563330
+FileModTime:1544525287
 WeightClass:300
 WidthClass:5
 AngleClass:0
@@ -95,14 +95,14 @@ FullName:ITC Avant Garde Gothic Std Book Oblique
 MenuName:ITC Avant Garde Std Bk
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH_Catalogs\Unscripted_Distribution\Document fonts\ITCAvantGardeStd-BkObl.otf
+OutlineFileName:C:\Users\prajin.cg\Documents\GitHub\RBH_Catalogs\Unscripted_Distribution\Document fonts\ITCAvantGardeStd-BkObl.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:33980
-FileModTime:1423563347
+FileModTime:1544525287
 WeightClass:300
 WidthClass:5
 AngleClass:1
@@ -123,14 +123,14 @@ FullName:ITC Avant Garde Gothic Std Demi
 MenuName:ITC Avant Garde Std Bk
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH_Catalogs\Unscripted_Distribution\Document fonts\ITCAvantGardeStd-Demi.otf
+OutlineFileName:C:\Users\prajin.cg\Documents\GitHub\RBH_Catalogs\Unscripted_Distribution\Document fonts\ITCAvantGardeStd-Demi.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:33564
-FileModTime:1423563353
+FileModTime:1544525287
 WeightClass:600
 WidthClass:5
 AngleClass:0
@@ -151,14 +151,14 @@ FullName:ITC Avant Garde Gothic Std Demi Condensed
 MenuName:ITC Avant Garde Std Bk Cn
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH_Catalogs\Unscripted_Distribution\Document fonts\ITCAvantGardeStd-DemiCn.otf
+OutlineFileName:C:\Users\prajin.cg\Documents\GitHub\RBH_Catalogs\Unscripted_Distribution\Document fonts\ITCAvantGardeStd-DemiCn.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:32604
-FileModTime:1423563354
+FileModTime:1544525287
 WeightClass:600
 WidthClass:3
 AngleClass:0
@@ -179,14 +179,14 @@ FullName:ITC Avant Garde Gothic Std Medium Condensed
 MenuName:ITC Avant Garde Std Cn
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH_Catalogs\Unscripted_Distribution\Document fonts\ITCAvantGardeStd-MdCn.otf
+OutlineFileName:C:\Users\prajin.cg\Documents\GitHub\RBH_Catalogs\Unscripted_Distribution\Document fonts\ITCAvantGardeStd-MdCn.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:32384
-FileModTime:1423563360
+FileModTime:1544525287
 WeightClass:500
 WidthClass:3
 AngleClass:0
@@ -207,14 +207,14 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH_Catalogs\Unscripted_Distribution\Document fonts\MinionPro-Regular.otf
+OutlineFileName:C:\Users\prajin.cg\Documents\GitHub\RBH_Catalogs\Unscripted_Distribution\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:218640
-FileModTime:1361511980
+FileModTime:1544525287
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -233,14 +233,14 @@ FullName:Univers 59 Ultra Condensed
 MenuName:Univers 59 Ultra Condensed
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH_Catalogs\Unscripted_Distribution\Document fonts\Univers-UltraCondensed.otf
+OutlineFileName:C:\Users\prajin.cg\Documents\GitHub\RBH_Catalogs\Unscripted_Distribution\Document fonts\Univers-UltraCondensed.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:23656
-FileModTime:1178573868
+FileModTime:1544525287
 WeightClass:500
 WidthClass:3
 AngleClass:0
@@ -258,14 +258,14 @@ FullName:Univers LT Std 75 Black
 MenuName:Univers LT Std 55
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH_Catalogs\Unscripted_Distribution\Document fonts\UniversLTStd-Black.otf
+OutlineFileName:C:\Users\prajin.cg\Documents\GitHub\RBH_Catalogs\Unscripted_Distribution\Document fonts\UniversLTStd-Black.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:36532
-FileModTime:1423144192
+FileModTime:1544525287
 WeightClass:850
 WidthClass:5
 AngleClass:0
@@ -285,14 +285,14 @@ FullName:Univers LT Std 65 Bold
 MenuName:Univers LT Std 45 Light
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH_Catalogs\Unscripted_Distribution\Document fonts\UniversLTStd-Bold.otf
+OutlineFileName:C:\Users\prajin.cg\Documents\GitHub\RBH_Catalogs\Unscripted_Distribution\Document fonts\UniversLTStd-Bold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:36368
-FileModTime:1423144205
+FileModTime:1544525287
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -312,14 +312,14 @@ FullName:Univers LT Std 45 Light
 MenuName:Univers LT Std 45 Light
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH_Catalogs\Unscripted_Distribution\Document fonts\UniversLTStd-Light.otf
+OutlineFileName:C:\Users\prajin.cg\Documents\GitHub\RBH_Catalogs\Unscripted_Distribution\Document fonts\UniversLTStd-Light.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:34488
-FileModTime:1423144263
+FileModTime:1544525287
 WeightClass:300
 WidthClass:5
 AngleClass:0
@@ -339,14 +339,14 @@ FullName:Univers LT Std 45 Light Oblique
 MenuName:Univers LT Std 45 Light
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH_Catalogs\Unscripted_Distribution\Document fonts\UniversLTStd-LightObl.otf
+OutlineFileName:C:\Users\prajin.cg\Documents\GitHub\RBH_Catalogs\Unscripted_Distribution\Document fonts\UniversLTStd-LightObl.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:35516
-FileModTime:1423144276
+FileModTime:1544525287
 WeightClass:300
 WidthClass:5
 AngleClass:1
@@ -367,14 +367,14 @@ FullName:Univers LT Std 55 Oblique
 MenuName:Univers LT Std 55
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH_Catalogs\Unscripted_Distribution\Document fonts\UniversLTStd-Obl.otf
+OutlineFileName:C:\Users\prajin.cg\Documents\GitHub\RBH_Catalogs\Unscripted_Distribution\Document fonts\UniversLTStd-Obl.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:36432
-FileModTime:1423144282
+FileModTime:1544525287
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -395,14 +395,14 @@ FullName:Univers LT Std 59 Ultra Condensed
 MenuName:Univers LT Std 59 UltraCn
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH_Catalogs\Unscripted_Distribution\Document fonts\UniversLTStd-UltraCn.otf
+OutlineFileName:C:\Users\prajin.cg\Documents\GitHub\RBH_Catalogs\Unscripted_Distribution\Document fonts\UniversLTStd-UltraCn.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:31080
-FileModTime:1423144288
+FileModTime:1544525287
 WeightClass:400
 WidthClass:1
 AngleClass:0
@@ -423,14 +423,14 @@ FullName:Univers LT Std 55 Roman
 MenuName:Univers LT Std 55
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\GIT\RBH_Catalogs\Unscripted_Distribution\Document fonts\UniversLTStd.otf
+OutlineFileName:C:\Users\prajin.cg\Documents\GitHub\RBH_Catalogs\Unscripted_Distribution\Document fonts\UniversLTStd.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:35100
-FileModTime:1423144303
+FileModTime:1544525287
 WeightClass:400
 WidthClass:5
 AngleClass:0
